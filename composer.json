@@ -1,0 +1,19 @@
+{
+    "name": "atuldevdobriyal/port-core",
+    "description": "This is a sasta wordpress clone",
+    "license": "MIT",
+	"authors": [
+	{
+	  "name": "Atul Dev Dobriyal",
+	  "email": "atuldev219@gmail.com"
+	}
+	],
+	"autoload": {
+		"psr-4": {
+			"Port\\": "/"
+		},
+		"files": [
+		  "functions/port.php"
+		]
+	},
+}
