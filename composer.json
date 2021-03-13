@@ -3,10 +3,10 @@
     "description": "This is a sasta wordpress clone",
     "license": "MIT",
 	"authors": [
-	{
-	  "name": "Atul Dev Dobriyal",
-	  "email": "atuldev219@gmail.com"
-	}
+		{
+			"name": "Atul Dev Dobriyal",
+			"email": "atuldev219@gmail.com"
+		}
 	],
 	"autoload": {
 		"psr-4": {
@@ -15,5 +15,5 @@
 		"files": [
 		  "functions/port.php"
 		]
-	},
+	}
 }
